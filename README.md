@@ -27,7 +27,7 @@ A simple Qt Quick (QML + C++) based Smart Home UI that allows toggling devices l
 
 ### 📁 Project Structure
 
-'''
+```
 SmartHomeProject/
 ├── CMakeLists.txt
 ├── main.cpp
@@ -39,7 +39,7 @@ SmartHomeProject/
 └── qml/
     └── Main.qml             # QML UI
 
-'''
+```
 
 ### 🧩 MVP Pattern (Model-View-Presenter)
 - **View (QML)**: `Main.qml` handles layout and user interaction
